@@ -2,7 +2,7 @@
 
 [![Github Pages](https://github.com/YunYouJun/air-conditioner/workflows/Github%20Pages/badge.svg)](https://github.com/YunYouJun/air-conditioner/actions)
 
-云空调，便携小空调，为你的夏日带去清凉！
+云空调，便携小空调，为你的夏日带去清凉
 
 前世今生：[云空调，便携小空调｜云游君的小站](https://www.yunyoujun.cn/posts/air-conditioner/)
 
